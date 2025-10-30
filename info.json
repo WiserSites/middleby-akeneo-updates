@@ -6,7 +6,7 @@
     "upgrade_notice" : "Here's why you should upgrade...",
     "author" : "WiserSites",
 	"author_homepage" : "https://wisersites.com/",
-    "download_url" : "https://github.com/WiserSites/middleby-akeneo-updates/downloads/middleby-akeneo_v1.0.31.zip",
+    "download_url" : "https://github.com/WiserSites/middleby-akeneo-updates/raw/refs/heads/main/downloads/middleby-akeneo_v1.0.31.zip",
     "sections" : {
         "description" : "Middleby Akeneo is the most complete Akeneo plugin for WordPress."
     }

@@ -1,12 +1,12 @@
 {
     "name" : "Middleby Akeneo",
-    "version" : "1.0.34.1",
-    "requires" : "3.2",
-    "tested" : "5.8",
+    "version" : "1.1.0",
+    "requires" : "6.6",
+    "tested" : "6.9.1",
     "upgrade_notice" : "Here's why you should upgrade...",
     "author" : "WiserSites",
 	"author_homepage" : "https://wisersites.com/",
-    "download_url" : "https://github.com/WiserSites/middleby-akeneo-updates/raw/refs/heads/main/downloads/middleby-akeneo_v1.0.34.1.zip",
+    "download_url" : "https://github.com/WiserSites/middleby-akeneo-updates/raw/refs/heads/main/downloads/middleby-akeneo_v1.1.0.zip",
     "sections" : {
         "description" : "Middleby Akeneo is the most complete Akeneo plugin for WordPress."
     }
